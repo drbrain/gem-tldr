@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/rubygems/commands/tldr_command.rb
+lib/rubygems_plugin.rb
+test/test_gem_commands_tldr_command.rb
